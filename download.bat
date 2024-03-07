@@ -1,5 +1,5 @@
 git config --global --unset http.proxy
 git config --global --unset https.proxy
 git branch
-git pull origin main
+git pull origin master
 pause
