@@ -1,2 +1,5 @@
-git bash here
-git pull origin
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+git branch
+git pull origin main
+pause
